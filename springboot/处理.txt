@@ -1,0 +1,11 @@
+1、创建hibernate 和 jdbcTemplate   √
+2、事务处理    √
+3、错误页面处理  √
+4、日志处理  √
+5、跨域处理 √
+6、乱码处理  √
+7、静态资源 √
+8、freemarker √
+9、测试 √
+10、mybatis √
+11、swagger ui √
